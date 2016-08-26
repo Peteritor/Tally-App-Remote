@@ -23,566 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2df424db-dff0-4f11-a60f-0c382c32f933" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/example/peter_sumit/tally_data/ApplicationTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/example/peter_sumit/tally_data/test/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/DisplayLedgerGroups$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/DisplayLedgerGroups$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/DisplayLedgerGroups.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/Expenditure.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/Income$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/Income.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/LedgerAnalysis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/LedgersAndGroups.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/MainActivity$GetData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/MainActivity$Login.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/MainActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/PNL$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/PNL.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/Payable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$anim.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$bool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$integer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$mipmap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/Recievable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/cashandbank.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/loan.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/main_screen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/peter_sumit/tally_data/stock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/test/debug/com/example/peter_sumit/tally_data/ExampleUnitTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3aeaa94cc4fcb64471c7c3b8d913f8ce37356cde.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_42813f8d4dbcfa88ea8403bfa8f9f5a2c61a3825.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_53613821d93ef16cda47440a0173c7ed6cdc4df0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_01fb7b97f129629bfb9fb4be74f9b8fb869c07c8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_d5d63f1e56af5513657b8c1e3c9aa2fe486554df.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/httpclient_479390a06193a7780311caeccdd2c15dcf2c5502.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/httpcore_c5dc3b5648440464a0bc7f774b929f47b0cf3455.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8e8c37ac3112099058acf83876bad628be791a8f.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AUTH.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthOption.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthProtocolState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthSchemeRegistry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthScope.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/AuthenticationException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/BasicUserPrincipal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/ChallengeState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/ContextAwareAuthScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/Credentials.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/InvalidCredentialsException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/MalformedChallengeException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/NTCredentials.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/NTUserPrincipal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/UsernamePasswordCredentials.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/params/AuthPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/params/AuthParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/auth/params/AuthParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/AuthCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/AuthenticationHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/AuthenticationStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/BackoffManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/CircularRedirectException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/ClientProtocolException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/ConnectionBackoffStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/CookieStore.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/CredentialsProvider.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/HttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/HttpRequestRetryHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/HttpResponseException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/NonRepeatableRequestException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/RedirectException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/RedirectHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/RedirectStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/RequestDirector.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/ResponseHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/ServiceUnavailableRetryStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/UserTokenHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/entity/DecompressingEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/entity/DeflateDecompressingEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/entity/GzipDecompressingEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/entity/UrlEncodedFormEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/AbortableHttpRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpDelete.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpHead.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpOptions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpPatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpPost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpPut.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpRequestBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpTrace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/methods/HttpUriRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/params/AllClientPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/params/AuthPolicy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/params/ClientPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/params/ClientParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/params/CookiePolicy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/params/HttpClientParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/ClientContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/ClientContextConfigurer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestAcceptEncoding.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestAddCookies.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestAuthCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestAuthenticationBase$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestAuthenticationBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestClientConnControl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestDefaultHeaders.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestProxyAuthentication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/RequestTargetAuthentication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/ResponseAuthCache$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/ResponseAuthCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/ResponseContentEncoding.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/protocol/ResponseProcessCookies.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/CloneUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/HttpClientUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/Idn.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/JdkIdn.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/Punycode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/Rfc3492Idn.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/URIBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/URIUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/client/utils/URLEncodedUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/BasicEofSensorWatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/BasicManagedEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ClientConnectionManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ClientConnectionManagerFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ClientConnectionOperator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ClientConnectionRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ConnectTimeoutException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ConnectionKeepAliveStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ConnectionPoolTimeoutException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ConnectionReleaseTrigger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/DnsResolver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/EofSensorInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/EofSensorWatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/HttpHostConnectException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/HttpInetSocketAddress.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/HttpRoutedConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ManagedClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/MultihomePlainSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/OperatedClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnConnectionPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnConnectionParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnManagerPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnManagerParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnManagerParams$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnManagerParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnPerRoute.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnPerRouteBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnRoutePNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnRouteParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/params/ConnRouteParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/BasicRouteDirector.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/HttpRoute.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/HttpRouteDirector.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/HttpRoutePlanner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/RouteInfo$LayerType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/RouteInfo$TunnelType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/RouteInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/routing/RouteTracker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/HostNameResolver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/LayeredSchemeSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/LayeredSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/LayeredSocketFactoryAdaptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/PlainSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/Scheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SchemeLayeredSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SchemeRegistry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SchemeSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SchemeSocketFactoryAdaptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/scheme/SocketFactoryAdaptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/AbstractVerifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/AllowAllHostnameVerifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/BrowserCompatHostnameVerifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/SSLInitializationException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/SSLSocketFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/StrictHostnameVerifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/TrustManagerDecorator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/TrustSelfSignedStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/TrustStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/ssl/X509HostnameVerifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/conn/util/InetAddressUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/ClientCookie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/Cookie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieIdentityComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieOrigin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookiePathComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieRestrictionViolationException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieSpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/CookieSpecRegistry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/MalformedCookieException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/SM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/SetCookie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/SetCookie2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/params/CookieSpecPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/cookie/params/CookieSpecParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/AuthSchemeBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/BasicScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/BasicSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/DigestScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/DigestSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/GGSSchemeBase$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/GGSSchemeBase$State.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/GGSSchemeBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/HttpEntityDigester.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/KerberosScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/KerberosSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl$HMACMD5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl$MD4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl$NTLMMessage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl$Type1Message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl$Type2Message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl$Type3Message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMEngineImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMScheme$State.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NTLMSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NegotiateScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/NegotiateSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/RFC2617Scheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/SPNegoScheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/SPNegoSchemeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/SpnegoTokenGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/auth/UnsupportedDigestAlgorithmException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/AIMDBackoffManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/AbstractAuthenticationHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/AbstractHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/AuthenticationStrategyAdaptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/AuthenticationStrategyImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/AutoRetryHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/BasicAuthCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/BasicCookieStore.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/BasicCredentialsProvider.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/BasicResponseHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/ClientParamsStack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/Clock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/ContentEncodingHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DecompressingHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultBackoffStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultConnectionKeepAliveStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultHttpRequestRetryHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultProxyAuthenticationHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultRedirectHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultRedirectStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultRedirectStrategyAdaptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultRequestDirector.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultServiceUnavailableRetryStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultTargetAuthenticationHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/DefaultUserTokenHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/EntityEnclosingRequestWrapper$EntityWrapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/EntityEnclosingRequestWrapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/HttpAuthenticator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/HttpAuthenticator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/LaxRedirectStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/NullBackoffStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/ProxyAuthenticationStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/ProxyClient$ProxyConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/ProxyClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/RedirectLocations.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/RequestWrapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/RoutedRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/StandardHttpRequestRetryHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/SystemClock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/SystemDefaultHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/TargetAuthenticationStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/client/TunnelRefusedException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/AbstractClientConnAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/AbstractPoolEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/AbstractPooledConnAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/BasicClientConnectionManager$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/BasicClientConnectionManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/ConnectionShutdownException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/DefaultClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/DefaultClientConnectionOperator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/DefaultHttpResponseParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/DefaultHttpRoutePlanner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/DefaultResponseParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/HttpConnPool$InternalConnFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/HttpConnPool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/HttpPoolEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/IdleConnectionHandler$TimeValues.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/IdleConnectionHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/InMemoryDnsResolver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/LoggingSessionInputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/LoggingSessionOutputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/ManagedClientConnectionImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/PoolingClientConnectionManager$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/PoolingClientConnectionManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/ProxySelectorRoutePlanner$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/ProxySelectorRoutePlanner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/SchemeRegistryFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/SingleClientConnManager$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/SingleClientConnManager$ConnAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/SingleClientConnManager$PoolEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/SingleClientConnManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/SystemDefaultDnsResolver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/Wire.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/AbstractConnPool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/BasicPoolEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/BasicPoolEntryRef.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/BasicPooledConnAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/ConnPoolByRoute$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/ConnPoolByRoute.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/PoolEntryRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/RouteSpecificPool$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/RouteSpecificPool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/ThreadSafeClientConnManager$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/ThreadSafeClientConnManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/WaitingThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/conn/tsccm/WaitingThreadAborter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/AbstractCookieAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/AbstractCookieSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicClientCookie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicClientCookie2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicCommentHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicDomainHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicExpiresHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicMaxAgeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicPathHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BasicSecureHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BestMatchSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BestMatchSpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BrowserCompatSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/BrowserCompatSpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/CookieSpecBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/DateParseException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/DateUtils$DateFormatHolder$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/DateUtils$DateFormatHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/DateUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/IgnoreSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/IgnoreSpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/NetscapeDomainHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/NetscapeDraftHeaderParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/NetscapeDraftSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/NetscapeDraftSpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/PublicSuffixFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/PublicSuffixListParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2109DomainHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2109Spec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2109SpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2109VersionHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965CommentUrlAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965DiscardAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965DomainAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965PortAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965Spec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965SpecFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpclient.jar_ckcoalqzu8j2q8ab75xu1jdmk/org/apache/http/impl/cookie/RFC2965VersionAttributeHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/ConnectionClosedException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/ConnectionReuseStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/FormattedHeader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/Header.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HeaderElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HeaderElementIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HeaderIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpConnectionMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpEntityEnclosingRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpHeaders.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpHost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpInetConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpMessage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpRequestFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpRequestInterceptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpResponseFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpResponseInterceptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpServerConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpStatus.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/HttpVersion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/MalformedChunkCodingException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/MethodNotSupportedException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/NameValuePair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/NoHttpResponseException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/ParseException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/ProtocolException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/ProtocolVersion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/ReasonPhraseCatalog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/RequestLine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/StatusLine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/TokenIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/TruncatedChunkException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/UnsupportedHttpVersionException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/AbstractHttpEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/BasicHttpEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/BufferedHttpEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/ByteArrayEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/ContentLengthStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/ContentProducer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/EntityTemplate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/FileEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/HttpEntityWrapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/InputStreamEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/SerializableEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/entity/StringEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/AbstractHttpClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/AbstractHttpServerConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/DefaultConnectionReuseStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/DefaultHttpClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/DefaultHttpRequestFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/DefaultHttpResponseFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/DefaultHttpServerConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/EnglishReasonPhraseCatalog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/HttpConnectionMetricsImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/NoConnectionReuseStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/SocketHttpClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/SocketHttpServerConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/entity/EntityDeserializer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/entity/EntitySerializer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/entity/LaxContentLengthStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/entity/StrictContentLengthStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/AbstractMessageParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/AbstractMessageWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/AbstractSessionInputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/AbstractSessionOutputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/ChunkedInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/ChunkedOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/ContentLengthInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/ContentLengthOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/HttpRequestParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/HttpRequestWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/HttpResponseParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/HttpResponseWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/HttpTransportMetricsImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/IdentityInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/IdentityOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/SocketInputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/impl/io/SocketOutputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/BufferInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/EofSensor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/HttpMessageParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/HttpMessageWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/HttpTransportMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/SessionInputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/io/SessionOutputBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/AbstractHttpMessage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHeader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHeaderElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHeaderElementIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHeaderIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHeaderValueFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHeaderValueParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHttpEntityEnclosingRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHttpRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicHttpResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicLineFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicLineParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicListHeaderIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicNameValuePair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicRequestLine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicStatusLine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BasicTokenIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/BufferedHeader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/HeaderGroup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/HeaderValueFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/HeaderValueParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/LineFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/LineParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/message/ParserCursor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/AbstractHttpParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/BasicHttpParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/CoreConnectionPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/CoreProtocolPNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/DefaultedHttpParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/HttpAbstractParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/HttpConnectionParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/HttpConnectionParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/HttpParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/HttpProtocolParamBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/HttpProtocolParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/params/SyncBasicHttpParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/BasicHttpContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/BasicHttpProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/DefaultedHttpContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/ExecutionContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HTTP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpDateGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpExpectationVerifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpRequestExecutor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpRequestHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpRequestHandlerRegistry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpRequestHandlerResolver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpRequestInterceptorList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpResponseInterceptorList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/HttpService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/ImmutableHttpProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/RequestConnControl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/RequestContent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/RequestDate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/RequestExpectContinue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/RequestTargetHost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/RequestUserAgent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/ResponseConnControl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/ResponseContent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/ResponseDate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/ResponseServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/SyncBasicHttpContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/protocol/UriPatternMatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/ByteArrayBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/CharArrayBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/EncodingUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/EntityUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/ExceptionUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/LangUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/httpcore.jar_bidm5jemh0fefmkht3len69q7/org/apache/http/util/VersionInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/color.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package.marker" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tally-android-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -603,12 +44,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.423077">
+            <state vertical-scroll-proportion="0.79941005">
               <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisplayLedgerGroups.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/DisplayLedgerGroups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cashandbank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/cashandbank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Income.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/Income.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="99" column="50" selection-start-line="99" selection-start-column="50" selection-end-line="99" selection-end-column="50" />
+              <folding>
+                <element signature="e#2875#3187#0" expanded="true" />
+                <element signature="e#3186#3187#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -623,26 +97,6 @@
           </provider>
           <provider selected="true" editor-type-id="android-designer">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -2269,7 +1723,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2344,74 +1798,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tally-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tally-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tally-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tally_data" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tally-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2791,13 +2177,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/LedgerAnalysis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/LedgersAndGroups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3037,31 +2416,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/cashandbank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/DisplayLedgerGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/Expenditure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/Income.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -3141,11 +2499,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.423077">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/cashandbank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/Income.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="50" selection-start-line="99" selection-start-column="50" selection-end-line="99" selection-end-column="50" />
+          <folding>
+            <element signature="e#2875#3187#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3160,18 +2553,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/peter_sumit/tally_data/DisplayLedgerGroups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.79941005">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding />
         </state>
       </provider>
