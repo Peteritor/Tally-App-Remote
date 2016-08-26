@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMaterialGreen">#8BC34A</color>
+    <color name="colorMaterialRed">#ef5350</color>
+    <color name="colorMaterialTeal">#26A69A</color>
+    <color name="colorMaterialPurple">#AB47BC</color>
+    <color name="colorMaterialYellow">#FDD835</color>
+    <color name="colorMaterialIndigo">#5C6BC0</color>
+    <color name="colorMaterialOrange">#FF7043</color>
+    <color name="dgts__accentColor">#ffacee</color>
+</resources>

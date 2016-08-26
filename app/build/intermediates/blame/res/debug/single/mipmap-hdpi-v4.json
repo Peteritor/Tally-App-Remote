@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_stock_black_24dp.png",
+        "source": "C:\\Android_Apps\\tally-android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_stock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Android_Apps\\tally-android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
