@@ -1,6 +1,7 @@
 package com.example.peter_sumit.tally_data;
 
 import android.content.Intent;
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -49,6 +50,8 @@ public class Income extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_income);
+        getSupportActionBar().setTitle(getLocalClassName());
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialGreen_Income)));
 
         Log.i("Check", "Its at Inc 1" );
         cont = (LinearLayout)findViewById(R.id.income_cont);
@@ -80,7 +83,7 @@ public class Income extends AppCompatActivity {
                         Log.i("Check", "Its at Inc 8 i=" + i);
                         hor[j].setTag(dat[i].name);
                         Log.i("Check", "Its at Inc 9 i=" + i);
-                        hor[j].setOnClickListener( new View.OnClickListener() {
+                        hor[j].setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
                                 DisplayLedgerGroups.groupName = v.getTag().toString();

@@ -4,133 +4,142 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".HomeScreen">
+    tools:context="com.example.peter_sumit.tally_data.main_screen">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="120dp"
         android:orientation="horizontal"
         android:id="@+id/main_screen_ll1"
-        android:layout_marginTop="70dp">
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:textSize="17sp"
-        android:padding="10dp"
-        android:layout_weight="1"
-        android:layout_marginLeft="5dp"
-        android:id="@+id/income_button"
-        android:text="Income"
-        android:textAlignment="viewStart"
-        android:layout_marginRight="5dp"
-        android:drawableLeft="@drawable/ic_rupee_black_24dp"
-        android:background="@color/colorMaterialGreen"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="20dp">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawablePadding="5dp"
+            android:textSize="17sp"
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/income_button"
+            android:text="Income"
+            android:textAlignment="viewStart"
+            android:layout_marginRight="5dp"
+            android:drawableLeft="@drawable/ic_rupee_black_24dp"
+            android:background="@color/colorMaterialGreen_Income"
+            android:layout_marginTop="20dp"/>
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:padding="10dp"
-        android:textSize="17sp"
-        android:layout_weight="1"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:textAlignment="viewStart"
-        android:id="@+id/expenditure_button"
-        android:text="Expenditure"
-        android:layout_toRightOf="@id/income_button"
-        android:drawableLeft="@drawable/ic_expense_bill_black_24dp"
-        android:layout_marginTop="20dp"
-        android:background="@color/colorMaterialRed"
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:textSize="17sp"
+            android:drawablePadding="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textAlignment="viewStart"
+            android:id="@+id/expenditure_button"
+            android:text="Expenditure"
+            android:layout_toRightOf="@id/income_button"
+            android:drawableLeft="@drawable/ic_expense_bill_black_24dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorMaterialRed_Expenditure"
 
-        />
+            />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="120dp"
         android:orientation="horizontal"
         android:id="@+id/main_screen_ll2"
         android:layout_below="@id/main_screen_ll1"
         >
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:textSize="17sp"
-        android:layout_weight="1"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:textAlignment="viewStart"
-        android:padding="10dp"
-        android:id="@+id/recievable_button"
-        android:text="Receivable"
-        android:layout_marginTop="15dp"
-        android:drawableLeft="@drawable/ic_recievable_black_24dp"
-        android:background="@color/colorMaterialIndigo"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="17sp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textAlignment="viewStart"
+            android:padding="10dp"
+            android:layout_below="@id/income_button"
+            android:id="@+id/recievable_button"
+            android:text="Receivable"
+            android:drawablePadding="5dp"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_recievable_black_24dp"
+            android:background="@color/colorMaterialIndigo_receivable"/>
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp"
-        android:textSize="17sp"
-        android:layout_weight="1"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:textAlignment="viewStart"
-        android:layout_toRightOf="@id/recievable_button"
-        android:id="@+id/payable_button"
-        android:text="Payable"
-        android:paddingLeft="10dp"
-        android:layout_marginTop="15dp"
-        android:drawableLeft="@drawable/ic_payable_black_24dp"
-        android:background="@color/colorMaterialPurple"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="17sp"
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textAlignment="viewStart"
+            android:layout_below="@id/income_button"
+            android:layout_toRightOf="@id/recievable_button"
+            android:id="@+id/payable_button"
+            android:text="Payable"
+            android:layout_marginTop="15dp"
+            android:drawablePadding="5dp"
+            android:drawableLeft="@drawable/ic_payable_black_24dp"
+            android:background="@color/colorMaterialPurple_payable"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="120dp"
         android:orientation="horizontal"
         android:id="@+id/main_screen_ll3"
         android:layout_below="@id/main_screen_ll2">
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/cashandbank_button"
-        android:layout_weight="1"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:textAlignment="viewStart"
-        android:textSize="17sp"
-        android:padding="10dp"
-        android:text="Cash and Bank"
-        android:layout_marginTop="15dp"
-        android:drawableLeft="@drawable/ic_cashnbank_black_24dp"
-        android:background="@color/colorMaterialTeal"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawablePadding="5dp"
+            android:id="@+id/cashandbank_button"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textAlignment="viewStart"
+            android:textSize="17sp"
+            android:padding="10dp"
+            android:layout_below="@id/recievable_button"
+            android:text="Cash and Bank"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_cashnbank_black_24dp"
+            android:background="@color/colorMaterialTeal_cashandbank"/>
+        />
 
 
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:padding="10dp"
-        android:id="@+id/loan_button"
-        android:layout_toRightOf="@id/cashandbank_button"
-        android:layout_weight="1"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:textAlignment="viewStart"
-        android:textSize="17sp"
-        android:text="Loan A/C"
-        android:layout_marginTop="15dp"
-        android:drawableLeft="@drawable/ic_loan_black_24dp"
-        android:background="@color/colorMaterialOrange"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:id="@+id/loan_button"
+            android:drawablePadding="5dp"
+            android:layout_below="@id/recievable_button"
+            android:layout_toRightOf="@id/cashandbank_button"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textAlignment="viewStart"
+            android:textSize="17sp"
+            android:text="Loan A/C"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_loan_black_24dp"
+            android:background="@color/colorMaterialOrange_loan"/>
     </LinearLayout>
     <Button
         android:layout_width="wrap_content"
-        android:layout_height="65dp"
+        android:layout_height="100dp"
         android:textSize="17sp"
+        android:drawablePadding="5dp"
         android:layout_centerHorizontal="true"
         android:padding="10dp"
         android:text="Stock"
@@ -142,6 +151,6 @@
         android:layout_marginRight="5dp"
         android:drawableLeft="@drawable/ic_stock_black_24dp"
         android:layout_marginStart="5dp"
-        android:background="@color/colorMaterialYellow"/>
+        android:background="@color/colorMaterialYellow_stock"/>
 
 </RelativeLayout>

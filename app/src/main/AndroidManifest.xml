@@ -23,9 +23,9 @@
         <activity android:name=".Income" />
         <activity android:name=".Expenditure" />
         <activity android:name=".Payable" />
-        <activity android:name=".CashAndBank" />
-        <activity android:name=".Stock" />
-        <activity android:name=".Loan" />
+        <activity android:name=".cashandbank" />
+        <activity android:name=".stock" />
+        <activity android:name=".loan" />
         <activity android:name=".PNL" />
         <activity android:name=".DisplayLedgerGroups" />
         <activity android:name=".LedgerAnalysis" />

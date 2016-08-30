@@ -25,7 +25,7 @@
                 android:layout_alignParentTop="true"
                 android:text="Company Name"
                 android:textStyle="bold"
-                android:textColor="@color/colorMaterialIndigo"
+                android:textColor="@color/colorMaterialIndigo_receivable"
                 android:textSize="16sp"/>
             <TextView
                 android:id="@+id/cardview_display_opbal"
@@ -34,7 +34,7 @@
                 android:layout_below="@id/cardview_display_heading"
                 android:text="OpBal"
                 android:textStyle="italic"
-                android:textColor="@color/colorMaterialGreen"
+                android:textColor="@color/colorMaterialGreen_Income"
                 />
 
             <TextView
@@ -42,7 +42,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textStyle="italic"
-                android:textColor="@color/colorMaterialRed"
+                android:textColor="@color/colorMaterialRed_Expenditure"
                 android:text="CpBal"
                 android:layout_below="@id/cardview_display_opbal"/>
 

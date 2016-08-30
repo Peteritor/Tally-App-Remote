@@ -29,9 +29,9 @@
         <activity android:name="com.example.peter_sumit.tally_data.Income" />
         <activity android:name="com.example.peter_sumit.tally_data.Expenditure" />
         <activity android:name="com.example.peter_sumit.tally_data.Payable" />
-        <activity android:name="com.example.peter_sumit.tally_data.CashAndBank" />
-        <activity android:name="com.example.peter_sumit.tally_data.Stock" />
-        <activity android:name="com.example.peter_sumit.tally_data.Loan" />
+        <activity android:name="com.example.peter_sumit.tally_data.cashandbank" />
+        <activity android:name="com.example.peter_sumit.tally_data.stock" />
+        <activity android:name="com.example.peter_sumit.tally_data.loan" />
         <activity android:name="com.example.peter_sumit.tally_data.PNL" />
         <activity android:name="com.example.peter_sumit.tally_data.DisplayLedgerGroups" />
         <activity android:name="com.example.peter_sumit.tally_data.LedgerAnalysis" />

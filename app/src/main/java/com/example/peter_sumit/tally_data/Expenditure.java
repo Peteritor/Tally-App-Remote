@@ -1,5 +1,6 @@
 package com.example.peter_sumit.tally_data;
 
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -43,5 +44,7 @@ public class Expenditure extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_expenditure);
+        getSupportActionBar().setTitle(getLocalClassName());
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialRed_Expenditure)));
     }
 }

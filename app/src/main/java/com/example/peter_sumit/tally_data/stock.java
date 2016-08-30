@@ -1,11 +1,12 @@
 package com.example.peter_sumit.tally_data;
 
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Stock extends AppCompatActivity {
+public class stock extends AppCompatActivity {
 
-    private static String groups[]={
+    private static String groups[] = {
             //"Stock-in-hand",
             //"Direct Expenses",
             //"Direct Incomes",
@@ -43,5 +44,7 @@ public class Stock extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_stock);
+        getSupportActionBar().setTitle("Stock");
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialYellow_stock)));
     }
 }

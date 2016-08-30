@@ -1,5 +1,6 @@
 package com.example.peter_sumit.tally_data;
 
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
@@ -26,6 +27,8 @@ public class CardViewActivity extends AppCompatActivity {
         dat = LoginActivity.data;
         mAdapter = new MyRecyclerViewAdapter(getDataSet());
         mRecyclerView.setAdapter(mAdapter);
+        getSupportActionBar().setTitle("Income");
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialGreen_Income)));
 
     }
 

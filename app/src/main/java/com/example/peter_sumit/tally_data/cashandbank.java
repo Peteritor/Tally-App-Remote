@@ -1,9 +1,10 @@
 package com.example.peter_sumit.tally_data;
 
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class CashAndBank extends AppCompatActivity {
+public class cashandbank extends AppCompatActivity {
 
     private static String groups[]={
             //"Stock-in-hand",
@@ -43,5 +44,7 @@ public class CashAndBank extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cashandbank);
+        getSupportActionBar().setTitle("Cash And Bank");
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialTeal_cashandbank)));
     }
 }

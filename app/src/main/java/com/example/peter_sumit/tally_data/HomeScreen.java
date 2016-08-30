@@ -43,19 +43,19 @@ public class HomeScreen extends AppCompatActivity {
         cashButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(HomeScreen.this, CashAndBank.class));
+                startActivity(new Intent(HomeScreen.this, cashandbank.class));
             }
         });
         stockButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(HomeScreen.this, Stock.class));
+                startActivity(new Intent(HomeScreen.this, stock.class));
             }
         });
         loanButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(HomeScreen.this, Loan.class));
+                startActivity(new Intent(HomeScreen.this, loan.class));
             }
         });
         recievableButton.setOnClickListener(new View.OnClickListener() {
