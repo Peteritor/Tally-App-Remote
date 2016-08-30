@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.peter_sumit.tally_data.main_screen">
+    tools:context=".HomeScreen">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -63,7 +63,6 @@
         android:layout_marginRight="5dp"
         android:textAlignment="viewStart"
         android:padding="10dp"
-        android:layout_below="@id/income_button"
         android:id="@+id/recievable_button"
         android:text="Receivable"
         android:layout_marginTop="15dp"
@@ -80,7 +79,6 @@
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"
         android:textAlignment="viewStart"
-        android:layout_below="@id/income_button"
         android:layout_toRightOf="@id/recievable_button"
         android:id="@+id/payable_button"
         android:text="Payable"
@@ -106,12 +104,11 @@
         android:textAlignment="viewStart"
         android:textSize="17sp"
         android:padding="10dp"
-        android:layout_below="@id/recievable_button"
         android:text="Cash and Bank"
         android:layout_marginTop="15dp"
         android:drawableLeft="@drawable/ic_cashnbank_black_24dp"
         android:background="@color/colorMaterialTeal"/>
-        />
+
 
 
     <Button
@@ -119,7 +116,6 @@
         android:layout_height="match_parent"
         android:padding="10dp"
         android:id="@+id/loan_button"
-        android:layout_below="@id/recievable_button"
         android:layout_toRightOf="@id/cashandbank_button"
         android:layout_weight="1"
         android:layout_marginLeft="5dp"

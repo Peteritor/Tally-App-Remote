@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_row.xml",
+        "source": "C:\\Android_Apps\\tally-android-master\\app\\src\\main\\res\\layout\\card_view_row.xml"
+    },
+    {
         "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashandbank.xml",
         "source": "C:\\Android_Apps\\tally-android-master\\app\\src\\main\\res\\layout\\activity_cashandbank.xml"
     },
@@ -90,6 +94,10 @@
     {
         "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pnl.xml",
         "source": "C:\\Android_Apps\\tally-android-master\\app\\src\\main\\res\\layout\\activity_pnl.xml"
+    },
+    {
+        "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_view.xml",
+        "source": "C:\\Android_Apps\\tally-android-master\\app\\src\\main\\res\\layout\\activity_card_view.xml"
     },
     {
         "merged": "C:\\Android_Apps\\tally-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",

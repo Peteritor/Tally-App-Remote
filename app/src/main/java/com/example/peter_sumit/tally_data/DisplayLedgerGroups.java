@@ -21,7 +21,7 @@ public class DisplayLedgerGroups extends AppCompatActivity {
         setContentView(R.layout.activity_display_ledger_groups);
 
         cont = (LinearLayout)findViewById(R.id.lng_cont);
-        dat = MainActivity.data;
+        dat = LoginActivity.data;
         len=dat.length;
 
         TextView head = (TextView)findViewById(R.id.group_Head);

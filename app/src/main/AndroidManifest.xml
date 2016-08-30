@@ -12,24 +12,25 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".main_screen" />
+        <activity android:name=".HomeScreen" />
         <activity android:name=".Income" />
         <activity android:name=".Expenditure" />
         <activity android:name=".Payable" />
-        <activity android:name=".cashandbank" />
-        <activity android:name=".stock" />
-        <activity android:name=".loan" />
+        <activity android:name=".CashAndBank" />
+        <activity android:name=".Stock" />
+        <activity android:name=".Loan" />
         <activity android:name=".PNL" />
         <activity android:name=".DisplayLedgerGroups" />
         <activity android:name=".LedgerAnalysis" />
-        <activity android:name=".Recievable"/>
+        <activity android:name=".Recievable" />
+        <activity android:name=".CardViewActivity"></activity>
     </application>
 
 </manifest>

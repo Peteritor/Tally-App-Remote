@@ -54,7 +54,7 @@ public class Income extends AppCompatActivity {
         cont = (LinearLayout)findViewById(R.id.income_cont);
         len=groups.length;
         Log.i("Check", "Its at Inc 2" );
-        dat = MainActivity.data;
+        dat = LoginActivity.data;
         Log.i("Check", "Its at Inc 3" );
 
         hor=new LinearLayout[len+10];
@@ -80,7 +80,7 @@ public class Income extends AppCompatActivity {
                         Log.i("Check", "Its at Inc 8 i=" + i);
                         hor[j].setTag(dat[i].name);
                         Log.i("Check", "Its at Inc 9 i=" + i);
-                        hor[j].setOnClickListener(new View.OnClickListener() {
+                        hor[j].setOnClickListener( new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
                                 DisplayLedgerGroups.groupName = v.getTag().toString();

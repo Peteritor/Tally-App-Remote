@@ -3,7 +3,7 @@ package com.example.peter_sumit.tally_data;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class cashandbank extends AppCompatActivity {
+public class CashAndBank extends AppCompatActivity {
 
     private static String groups[]={
             //"Stock-in-hand",

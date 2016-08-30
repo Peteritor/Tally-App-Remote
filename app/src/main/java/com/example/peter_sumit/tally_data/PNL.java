@@ -33,7 +33,7 @@ public class PNL extends AppCompatActivity {
         cont = (LinearLayout)findViewById(R.id.pnl_cont);
         len=groups.length;
         Log.i("Check", "Its at Inc 2" );
-        dat = MainActivity.data;
+        dat = LoginActivity.data;
         Log.i("Check", "Its at Inc 3" );
 
         hor=new LinearLayout[len+10];
