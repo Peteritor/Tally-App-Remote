@@ -30,7 +30,8 @@ public class HomeScreen extends AppCompatActivity {
         incomeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(HomeScreen.this, CardViewActivity.class));
+//                startActivity(new Intent(HomeScreen.this, CardViewActivity.class));
+                startActivity(new Intent(HomeScreen.this, Income.class));
 
             }
         });
