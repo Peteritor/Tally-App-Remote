@@ -10,10 +10,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.peter_sumit.tally_data.Income"
     android:id="@+id/income_cont">
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/my_recycler_view_income"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scrollbars="vertical"/>
+        android:scrollbars="vertical" />
 
 </LinearLayout>

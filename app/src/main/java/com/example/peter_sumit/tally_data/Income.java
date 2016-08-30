@@ -59,6 +59,7 @@ public class Income extends AppCompatActivity {
         setContentView(R.layout.activity_income);
         getSupportActionBar().setTitle(getLocalClassName());
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialGreen_Income)));
+
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view_income);
         mRecyclerView.setHasFixedSize(true);
         mLayoutManager = new LinearLayoutManager(this);

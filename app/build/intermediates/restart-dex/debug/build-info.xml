@@ -4,32 +4,32 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="121399835521834"
+    timestamp="127409157342559"
     token="-1226529295787646803" >
 
     <task
         name="javac"
-        duration="292" />
+        duration="302" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="31" />
+        duration="63" />
     <task
         name="verifier"
-        duration="2" />
+        duration="5" />
 
     <artifact
         location="C:\Users\Tnmy\AndroidStudioProjects\Tally-App-Remote\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
         type="DEX" />
 
-    <build timestamp="119575242011107" >
+    <build timestamp="123314724529222" >
         <artifact
             location="C:\Users\Tnmy\AndroidStudioProjects\Tally-App-Remote\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="121399835521834" >
+    <build timestamp="127409157342559" >
         <artifact
             location="C:\Users\Tnmy\AndroidStudioProjects\Tally-App-Remote\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />

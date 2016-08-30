@@ -1824,7 +1824,6 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f0d0026;
         public static final int expanded_menu=0x7f0d0039;
         public static final int expenditure_button=0x7f0d005c;
-        public static final int group_Head=0x7f0d0053;
         public static final int home=0x7f0d0004;
         public static final int homeAsUp=0x7f0d000e;
         public static final int icon=0x7f0d002a;
@@ -1848,6 +1847,7 @@ containing a value of this type.
         public static final int middle=0x7f0d001c;
         public static final int multiply=0x7f0d0015;
         public static final int my_recycler_view=0x7f0d0051;
+        public static final int my_recycler_view_display_ledger_groups=0x7f0d0053;
         public static final int my_recycler_view_income=0x7f0d0055;
         public static final int never=0x7f0d0020;
         public static final int none=0x7f0d000f;
