@@ -1,51 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="22"
-    density="xhdpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
     format="7"
-    timestamp="5379125445969"
+    timestamp="6908319108777"
     token="3947262263870545963" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="230" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="131" />
     <task
         name="verifier"
-        duration="0" />
+        duration="20" />
 
     <artifact
-        location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
+        location="/Development/Tally/Tally-App-Remote/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="2037145382890" >
+    <build timestamp="6908319108777" >
         <artifact
             location="/Development/Tally/Tally-App-Remote/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="5183320880042"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-2-4_bfc13501395ca38b4c916e4203ee9c836229ed45/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="5379125445969" >
-        <artifact
-            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

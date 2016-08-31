@@ -97,7 +97,8 @@ public class Income extends AppCompatActivity {
                         Log.i("Check", "Its at Inc 6 i=" + i + "  group =" + groups[j]);
 //                        cont.addView(hor[j]);
                         Log.i("Check", "Its at Inc 7 i=" + i);
-                        DataObject obj = new DataObject(dat[i].name, "OpBal :" + dat[i].opBal, "CpBal :" + dat[i].clBal);
+                        //NOT SURE
+                        DataObject obj = new DataObject(dat[i].name, "Opening Balance : " + dat[i].opBal, "Closing Balance : " + dat[i].clBal*(-1));
                         results.add(results_index++, obj);
                         mAdapter.notifyDataSetChanged();
                         ((MyRecyclerViewAdapter) mAdapter).setOnItemClickListener(new MyRecyclerViewAdapter
