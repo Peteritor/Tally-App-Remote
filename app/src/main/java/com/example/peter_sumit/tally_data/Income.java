@@ -45,37 +45,26 @@ public class Income extends AppCompatActivity {
     };
 
     LinearLayout cont;
-    int c = 0;
+    int results_index = 0;
     //    LinearLayout hor[];
     int len;
     LedgersAndGroups[] dat;
     private RecyclerView mRecyclerView;
-    private RecyclerView.Adapter mAdapter;
+    private RecyclerView.Adapter<MyRecyclerViewAdapter.DataObjectHolder> mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
+    final ArrayList<DataObject> results = new ArrayList<DataObject>();
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_income);
-        getSupportActionBar().setTitle(getLocalClassName());
-        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialGreen_Income)));
+    protected void onRestart() {
+        super.onRestart();
+        results.clear();
+        mAdapter.notifyDataSetChanged();
+        results_index = 0;
+    }
 
-        mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view_income);
-        mRecyclerView.setHasFixedSize(true);
-        mLayoutManager = new LinearLayoutManager(this);
-        mRecyclerView.setLayoutManager(mLayoutManager);
-        final ArrayList results = new ArrayList<DataObject>();
-        mAdapter = new MyRecyclerViewAdapter(results);
-        mRecyclerView.setAdapter(mAdapter);
-
-        Log.i("Check", "Its at Inc 1");
-        cont = (LinearLayout) findViewById(R.id.income_cont);
-        len = groups.length;
-        Log.i("Check", "Its at Inc 2");
-        dat = LoginActivity.data;
-        Log.i("Check", "Its at Inc 3");
-
-
+    @Override
+    protected void onStart() {
+        super.onStart();
         for (int i = 0; i < dat.length; i++) {
             for (int j = 0; j < len; j++) {
                 if (dat[i].name.equals(groups[j]) && !(dat[i].opBal == 0f && dat[i].clBal == 0f)) {
@@ -84,13 +73,13 @@ public class Income extends AppCompatActivity {
 //                        cont.addView(hor[j]);
                         Log.i("Check", "Its at Inc 7 i=" + i);
                         DataObject obj = new DataObject(dat[i].name, "OpBal :" + dat[i].opBal, "CpBal :" + dat[i].clBal);
-                        results.add(c++, obj);
+                        results.add(results_index++, obj);
                         mAdapter.notifyDataSetChanged();
                         ((MyRecyclerViewAdapter) mAdapter).setOnItemClickListener(new MyRecyclerViewAdapter
                                 .MyClickListener() {
                             @Override
                             public void onItemClick(int position, View v) {
-                                DataObject dataObject = (DataObject) results.get(position);
+                                DataObject dataObject = results.get(position);
                                 DisplayLedgerGroups.groupName = dataObject.getmHeading();
                                 drillDown();
                             }
@@ -103,6 +92,32 @@ public class Income extends AppCompatActivity {
                 }
             }
         }
+    }
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_income);
+        getSupportActionBar().setTitle(getLocalClassName());
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.colorMaterialGreen_Income)));
+
+        mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view_income);
+        mRecyclerView.setHasFixedSize(true);
+        mLayoutManager = new LinearLayoutManager(this);
+        mRecyclerView.setLayoutManager(mLayoutManager);
+
+        mAdapter = new MyRecyclerViewAdapter(results);
+        mRecyclerView.setAdapter(mAdapter);
+
+        Log.i("Check", "Its at Inc 1");
+        cont = (LinearLayout) findViewById(R.id.income_cont);
+        len = groups.length;
+        Log.i("Check", "Its at Inc 2");
+        dat = LoginActivity.data;
+        Log.i("Check", "Its at Inc 3");
+
+
+
     }
 
     void drillDown() {

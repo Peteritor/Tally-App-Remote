@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.View;
 import android.widget.LinearLayout;
 
@@ -14,29 +15,29 @@ public class DisplayLedgerGroups extends AppCompatActivity {
 
     public static String groupName;
     LinearLayout cont;
-    LinearLayout hor[];
     int len;
     LedgersAndGroups[] dat;
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter<MyRecyclerViewAdapter.DataObjectHolder> mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
     private ArrayList<DataObject> results;
-    int c = 0;
+    int c;
+
 
     @Override
-    protected void onResume() {
-        super.onResume();
-
-
+    public void onBackPressed() {
+        finish();
+//        startActivity(new Intent(getApplicationContext(),Income.class));
     }
 
     @Override
     protected void onStart() {
         super.onStart();
-
+        Log.i("groupname: ", groupName);
         for (int i = 0; i < dat.length; i++) {
             if (dat[i].parent.equals(groupName) && !(dat[i].opBal == 0f && dat[i].clBal == 0f)) {
                 DataObject obj = new DataObject(dat[i].name, "OpBal :" + dat[i].opBal, "CpBal :" + dat[i].clBal);
+//                results.addAll(store_results);
                 results.add(c++, obj);
                 mAdapter.notifyDataSetChanged();
 
@@ -71,7 +72,7 @@ public class DisplayLedgerGroups extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_ledger_groups);
-
+        c = 0;
         cont = (LinearLayout) findViewById(R.id.lng_cont);
         dat = LoginActivity.data;
         len = dat.length;
@@ -85,8 +86,6 @@ public class DisplayLedgerGroups extends AppCompatActivity {
         results = new ArrayList<DataObject>();
         mAdapter = new MyRecyclerViewAdapter(results);
         mRecyclerView.setAdapter(mAdapter);
-
-
 
 
     }
