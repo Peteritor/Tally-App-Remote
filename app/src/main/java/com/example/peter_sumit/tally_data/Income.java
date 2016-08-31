@@ -141,7 +141,7 @@ public class Income extends AppCompatActivity {
         dat = LoginActivity.data;
         Log.i("Check", "Its at Inc 3");
 
-
+//Chart
         double s;
         float f_i;
         for(int i=0;i<dat.length;i++){
@@ -230,19 +230,12 @@ public class Income extends AppCompatActivity {
 
         colors.add(ColorTemplate.getHoloBlue());
         dataSet.setColors(colors);
-
-        //instantiate pie data object now
         PieData data = new PieData(xVals,dataSet);
         data.setValueFormatter(new PercentFormatter());
         data.setValueTextSize(12f);
         data.setValueTextColor(Color.GRAY);
-
         mchart.setData(data);
-
-        //undo all highlights
         mchart.highlightValue(null);
-
-        //update pie chart
         mchart.invalidate();
 
 
