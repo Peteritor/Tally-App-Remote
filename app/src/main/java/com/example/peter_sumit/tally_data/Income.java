@@ -1,6 +1,7 @@
 package com.example.peter_sumit.tally_data;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -8,7 +9,18 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
+import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+
+import com.github.mikephil.charting.charts.PieChart;
+import com.github.mikephil.charting.components.Legend;
+import com.github.mikephil.charting.data.Entry;
+import com.github.mikephil.charting.data.PieData;
+import com.github.mikephil.charting.data.PieDataSet;
+import com.github.mikephil.charting.formatter.PercentFormatter;
+import com.github.mikephil.charting.highlight.Highlight;
+import com.github.mikephil.charting.listener.OnChartValueSelectedListener;
+import com.github.mikephil.charting.utils.ColorTemplate;
 
 import java.util.ArrayList;
 
@@ -53,6 +65,19 @@ public class Income extends AppCompatActivity {
     private RecyclerView.Adapter<MyRecyclerViewAdapter.DataObjectHolder> mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
     final ArrayList<DataObject> results = new ArrayList<DataObject>();
+
+    //pie chart
+
+    private FrameLayout mainLayout;
+    private PieChart mchart;
+    //CREATING PIE CHART
+    private double[] yData = {5, 2.7883608, 2.4684371};
+    private String[] xData = {"Direct Incomes",
+            "Indirect Incomes",
+            "Sales Accounts"};
+    int yl=yData.length;
+
+    //pie chart
 
     @Override
     protected void onRestart() {
@@ -117,11 +142,116 @@ public class Income extends AppCompatActivity {
         Log.i("Check", "Its at Inc 3");
 
 
+        double s;
+        float f_i;
+        for(int i=0;i<dat.length;i++){
+            for(int j=0;j<len;j++){
+                if(dat[i].name.equals(groups[j]) && !(dat[i].opBal==0f && dat[i].clBal==0f)){
+                    try {
+                        s=dat[i].clBal;
+                        f_i = (float)s;
+                    }catch (Exception ex){
+                        Log.i("Check","Group = "+groups[j]+"   "+ex.getMessage());
+                    }
+                }
+            }
+        }
+        mainLayout = (FrameLayout)findViewById(R.id.linear);
+        mchart = new PieChart(this);
+        mainLayout.addView(mchart);
+        mchart.setUsePercentValues(true);
+        mchart.setDescription("Income");
+        mchart.setDrawHoleEnabled(true);
+        mchart.setHoleRadius(0);
+        mchart.setTransparentCircleRadius(0);
+        mchart.setRotationAngle(0);
+        mchart.setRotationEnabled(true);
+        mchart.setOnChartValueSelectedListener(new OnChartValueSelectedListener() {
+            @Override
+            public void onValueSelected(Entry entry, int i, Highlight highlight) {
+
+                if (entry == null)
+                    return;
+
+//                Toast.makeText(getApplicationContext(), xData[entry.getXIndex()] + " = " + entry.getVal() + "%", Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onNothingSelected() {
+
+
+            }
+        });
+        addData();
+//        customize legends;
+        Legend l = mchart.getLegend();
+        l.setPosition(Legend.LegendPosition.BELOW_CHART_CENTER);
+        l.setXEntrySpace(7);
+        l.setYEntrySpace(10);
+
+    }//On Create
+
+    //For chart
+    private void addData()
+    {
+        ArrayList<Entry> yVals1 = new ArrayList<Entry>();
+        for (int i=0;i<yl;i++){
+            yVals1.add(new Entry((float)yData[i],i));
+        }
+
+        ArrayList<String> xVals = new ArrayList<String>();
+        for(int i=0;i<yl;i++) {
+            xVals.add(xData[i]);
+        }
+        //create pie data set
+        PieDataSet dataSet = new PieDataSet(yVals1,"");
+        dataSet.setSliceSpace(3);
+        dataSet.setSelectionShift(5);
+
+        //ADD COLORS
+        ArrayList<Integer> colors = new ArrayList<Integer>();
+        for(int c: ColorTemplate.VORDIPLOM_COLORS)
+            colors.add(c);
+
+        for(int c: ColorTemplate.JOYFUL_COLORS)
+            colors.add(c);
+
+
+        for(int c:ColorTemplate.COLORFUL_COLORS)
+            colors.add(c);
+
+
+        for(int c:ColorTemplate.LIBERTY_COLORS)
+            colors.add(c);
+
+
+        for(int c:ColorTemplate.PASTEL_COLORS)
+            colors.add(c);
+
+        colors.add(ColorTemplate.getHoloBlue());
+        dataSet.setColors(colors);
+
+        //instantiate pie data object now
+        PieData data = new PieData(xVals,dataSet);
+        data.setValueFormatter(new PercentFormatter());
+        data.setValueTextSize(12f);
+        data.setValueTextColor(Color.GRAY);
+
+        mchart.setData(data);
+
+        //undo all highlights
+        mchart.highlightValue(null);
+
+        //update pie chart
+        mchart.invalidate();
+
 
     }
+    //Chart end
+
 
     void drillDown() {
         startActivity(new Intent(this, DisplayLedgerGroups.class));
     }
 
-}
+}//end of class

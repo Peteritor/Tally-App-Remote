@@ -4,7 +4,7 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="4226913251775"
+    timestamp="5379125445969"
     token="3947262263870545963" >
 
     <task
@@ -29,7 +29,20 @@
             location="/Development/Tally/Tally-App-Remote/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="4226913251775" >
+    <build
+        timestamp="5183320880042"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-2-4_bfc13501395ca38b4c916e4203ee9c836229ed45/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="5379125445969" >
         <artifact
             location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />

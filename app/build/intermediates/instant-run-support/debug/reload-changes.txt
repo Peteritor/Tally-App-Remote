@@ -1,0 +1,16 @@
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/HomeScreen$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$mipmap$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$integer$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/LedgerAnalysis$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$string$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$layout$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$styleable$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/Income$1$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/LoginActivity$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$style$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/Income$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/MyRecyclerViewAdapter$DataObjectHolder$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/R$id$override.class
+CHANGED,/Development/Tally/Tally-App-Remote/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/peter_sumit/tally_data/PNL$override.class

@@ -32,7 +32,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/cardview_display_heading"
-                android:text="OpBal"
+                android:text="Opening Balance"
                 android:textStyle="italic"
                 android:textColor="@color/colorMaterialGreen_Income"
                 />
@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:textStyle="italic"
                 android:textColor="@color/colorMaterialRed_Expenditure"
-                android:text="CpBal"
+                android:text="Closing Balance"
                 android:layout_below="@id/cardview_display_opbal"/>
 
         </RelativeLayout>
