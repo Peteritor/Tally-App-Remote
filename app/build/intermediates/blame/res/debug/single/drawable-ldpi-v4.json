@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Tnmy\\AndroidStudioProjects\\Tally-App-Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_expend_money_black_24dp.png",
-        "source": "C:\\Users\\Tnmy\\AndroidStudioProjects\\Tally-App-Remote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_expend_money_black_24dp.png"
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_expend_money_black_24dp.png",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/generated/res/pngs/debug/drawable-ldpi/ic_expend_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Tnmy\\AndroidStudioProjects\\Tally-App-Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_attach_money_black_24dp.png",
-        "source": "C:\\Users\\Tnmy\\AndroidStudioProjects\\Tally-App-Remote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png"
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_attach_money_black_24dp.png",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/generated/res/pngs/debug/drawable-ldpi/ic_attach_money_black_24dp.png"
     }
 ]

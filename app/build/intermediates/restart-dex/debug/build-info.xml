@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    density="xxhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
     format="7"
-    timestamp="156741645170274"
-    token="-1226529295787646803" >
+    timestamp="4226913251775"
+    token="3947262263870545963" >
 
     <task
         name="javac"
-        duration="465" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="77" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Tnmy\AndroidStudioProjects\Tally-App-Remote\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
+        location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="154016292544913" >
+    <build timestamp="2037145382890" >
         <artifact
-            location="C:\Users\Tnmy\AndroidStudioProjects\Tally-App-Remote\app\build\outputs\apk\app-debug.apk"
+            location="/Development/Tally/Tally-App-Remote/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="156741645170274" >
+    <build timestamp="4226913251775" >
         <artifact
-            location="C:\Users\Tnmy\AndroidStudioProjects\Tally-App-Remote\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
+            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
