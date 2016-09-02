@@ -8,12 +8,20 @@
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/activity_loan.xml",
-        "source": "/Development/Tally/Tally-App-Remote/app/src/main/res/layout/activity_loan.xml"
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/activity_loan.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/src/main/res/layout/activity_loan.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
@@ -30,6 +38,10 @@
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/activity_ledger_analysis.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/src/main/res/layout/activity_ledger_analysis.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -52,12 +64,24 @@
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
     },
     {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -68,8 +92,16 @@
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
     },
     {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -80,8 +112,16 @@
         "source": "/Development/Tally/Tally-App-Remote/app/src/main/res/layout/activity_cashandbank.xml"
     },
     {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/activity_payable.xml",
@@ -124,12 +164,12 @@
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/activity_pnl.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/src/main/res/layout/activity_pnl.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -142,6 +182,10 @@
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/layout/card_view_row.xml",

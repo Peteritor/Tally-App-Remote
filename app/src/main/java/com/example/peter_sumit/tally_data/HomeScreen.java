@@ -6,6 +6,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.github.mikephil.charting.charts.LineChart;
+import com.github.mikephil.charting.data.Entry;
+import com.github.mikephil.charting.data.LineData;
+import com.github.mikephil.charting.data.LineDataSet;
+
+import java.util.ArrayList;
+
 public class HomeScreen extends AppCompatActivity {
     Button incomeButton;
     Button expenditureButton;
@@ -72,8 +79,38 @@ public class HomeScreen extends AppCompatActivity {
             }
         });
 
+        //Line chart
+        LineChart lineChart = (LineChart)findViewById(R.id.chart); //getResources().getLayout(R.id.chart);//).findViewById(R.id.chart);
 
-    }
+        double[] yData = {5, 2.7883608, 7.4684371,};
+        String[] xData = {"Direct Incomes",
+                "Indirect Incomes",
+                "Sales Accounts"};
+        int yl=yData.length;
+
+
+        ArrayList<Entry> entries = new ArrayList<>();
+
+        for (int i = 0; i < yl; i++) {
+            entries.add(new Entry((float)yData[i], i));
+        }
+
+        LineDataSet dataset = new LineDataSet(entries, "Last recorded Data");
+
+        ArrayList<String> labels = new ArrayList<String>();
+        for (int i = 0; i < yl; i++) {
+            labels.add(xData[i]);
+        }
+
+        LineData data = new LineData(labels, dataset);
+
+        dataset.setDrawCubic(true);
+        dataset.setDrawFilled(true);
+        lineChart.setData(data);
+        lineChart.animateY(3000);
+
+
+    }//end of oncreate
 
 
 }//End of Main_screen class

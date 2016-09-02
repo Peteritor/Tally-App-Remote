@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/ic_recievable_black_24dp.png",
         "source": "/Development/Tally/Tally-App-Remote/app/src/main/res/drawable/ic_recievable_black_24dp.png"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
@@ -34,6 +34,10 @@
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
@@ -86,6 +90,10 @@
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Development/Tally/Tally-App-Remote/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/Development/Tally/Tally-App-Remote/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",

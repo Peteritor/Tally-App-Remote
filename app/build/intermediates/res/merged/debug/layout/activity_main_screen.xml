@@ -6,12 +6,31 @@
     android:orientation="vertical"
     tools:context="com.example.peter_sumit.tally_data.main_screen">
 
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:layout_above="@+id/linear_up"
+        android:layout_alignParentTop="true"
+        android:id="@+id/places_fragment">
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/chart"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+<LinearLayout
+    android:layout_alignParentBottom="true"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/linear_up"
+    android:layout_height="wrap_content">
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="120dp"
+        android:layout_height="80dp"
         android:orientation="horizontal"
-        android:id="@+id/main_screen_ll1"
-        android:layout_marginTop="20dp">
+        android:id="@+id/main_screen_ll1">
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -50,7 +69,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="120dp"
+        android:layout_height="80dp"
         android:orientation="horizontal"
         android:id="@+id/main_screen_ll2"
         android:layout_below="@id/main_screen_ll1"
@@ -93,7 +112,7 @@
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="120dp"
+        android:layout_height="80dp"
         android:orientation="horizontal"
         android:id="@+id/main_screen_ll3"
         android:layout_below="@id/main_screen_ll2">
@@ -136,14 +155,15 @@
             android:background="@color/colorMaterialOrange_loan"/>
     </LinearLayout>
     <Button
+        android:layout_gravity="center"
         android:layout_width="wrap_content"
-        android:layout_height="100dp"
+        android:layout_height="60dp"
         android:textSize="17sp"
         android:drawablePadding="5dp"
         android:layout_centerHorizontal="true"
         android:padding="10dp"
         android:text="Stock"
-        android:ems="12"
+        android:ems="9"
         android:layout_marginTop="15dp"
         android:layout_below="@id/main_screen_ll3"
         android:id="@+id/stock_button"
@@ -153,4 +173,5 @@
         android:layout_marginStart="5dp"
         android:background="@color/colorMaterialYellow_stock"/>
 
+</LinearLayout>
 </RelativeLayout>

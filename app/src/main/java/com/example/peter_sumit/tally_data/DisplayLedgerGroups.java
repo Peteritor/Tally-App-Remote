@@ -73,7 +73,7 @@ public class DisplayLedgerGroups extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_ledger_groups);
         c = 0;
-        cont = (LinearLayout) findViewById(R.id.lng_cont);
+        cont = (LinearLayout)findViewById(R.id.lng_cont);
         dat = LoginActivity.data;
         len = dat.length;
 

@@ -110,8 +110,6 @@ public class Income extends AppCompatActivity {
                                 drillDown();
                             }
                         });
-
-
                     } catch (Exception ex) {
                         Log.i("Check", "Group = " + groups[j] + "   " + ex.getMessage());
                     }

@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    density="xxhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
     format="7"
-    timestamp="6908319108777"
+    timestamp="12546143043757"
     token="3947262263870545963" >
 
     <task
         name="javac"
-        duration="230" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="131" />
+        duration="0" />
     <task
         name="verifier"
-        duration="20" />
+        duration="0" />
 
     <artifact
-        location="/Development/Tally/Tally-App-Remote/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="6908319108777" >
+    <build timestamp="11958079234396" >
         <artifact
             location="/Development/Tally/Tally-App-Remote/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="12546143043757" >
+        <artifact
+            location="/Development/Tally/Tally-App-Remote/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
